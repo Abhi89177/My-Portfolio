@@ -240,7 +240,7 @@ nav .nav-links a:hover {
     }
 }
 
-
+@media (max-width: 768px){
 input[type="text"],
     input[type="email"],
     textarea {
@@ -269,6 +269,7 @@ input[type="text"],
     input[type="submit"]:hover {
         background-color: #0056b3;
     }
+}
 
     .footer {
         background-color: #333;
